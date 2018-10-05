@@ -1,0 +1,18 @@
+{
+  "main.css": "/code-splitting/static/css/main.05a38e69.chunk.css",
+  "main.js": "/code-splitting/static/js/main.3471e38f.chunk.js",
+  "main.js.map": "/code-splitting/static/js/main.3471e38f.chunk.js.map",
+  "static/js/1.f0f63bee.chunk.js": "/code-splitting/static/js/1.f0f63bee.chunk.js",
+  "static/js/1.f0f63bee.chunk.js.map": "/code-splitting/static/js/1.f0f63bee.chunk.js.map",
+  "static/js/2.76feb1b4.chunk.js": "/code-splitting/static/js/2.76feb1b4.chunk.js",
+  "static/js/2.76feb1b4.chunk.js.map": "/code-splitting/static/js/2.76feb1b4.chunk.js.map",
+  "static/js/3.f2efbbc4.chunk.js": "/code-splitting/static/js/3.f2efbbc4.chunk.js",
+  "static/js/3.f2efbbc4.chunk.js.map": "/code-splitting/static/js/3.f2efbbc4.chunk.js.map",
+  "runtime~main.js": "/code-splitting/static/js/runtime~main.ef9129b4.js",
+  "runtime~main.js.map": "/code-splitting/static/js/runtime~main.ef9129b4.js.map",
+  "static/media/logo.svg": "/code-splitting/static/media/logo.5d5d9eef.svg",
+  "static/css/main.05a38e69.chunk.css.map": "/code-splitting/static/css/main.05a38e69.chunk.css.map",
+  "index.html": "/code-splitting/index.html",
+  "precache-manifest.edea47252ccce83b5ee35da26c54dfd9.js": "/code-splitting/precache-manifest.edea47252ccce83b5ee35da26c54dfd9.js",
+  "service-worker.js": "/code-splitting/service-worker.js"
+}
